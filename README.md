@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitamboli
+- 👋 Hi, I’m @ankit-jds
 - 👀 I’m interested in making webapps (currently :)
 - 🌱 I’m currently learning Web-Development with Django Backend
 - 💞️ I’m looking to collaborate on nothing bcoz I am not that skilled yet (;
