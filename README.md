@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ankit-jds
 - 👀 I’m interested in making dynamic webapps or websites.
-- 🌱 I’m currently learning Front-End Development in ReactJS.
+- 🌱 I’m have experience working with Front-End library ReactJS and Back-End like Djagno, Flask, NodeJS.
 - 💞️ I’m looking to collaborate on Web Development Projects (FrontEnd BackEnd anything)
 - 📫 How to reach me just email me at brilliankitamboli@gmail.com with a catchy subject.
 <!---
