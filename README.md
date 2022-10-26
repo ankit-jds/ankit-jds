@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankit-jds
+- 👋 Hi, I’m Ankit Tamboli
 - 👀 I’m interested in making dynamic webapps or websites.
 - 🌱 I’m have experience working with Front-End library ReactJS and Back-End like Djagno, Flask, NodeJS.
 - 💞️ I’m looking to collaborate on Web Development Projects (FrontEnd BackEnd anything)
