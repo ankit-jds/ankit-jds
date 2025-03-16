@@ -24,7 +24,7 @@ Don’t forget to make the subject **catchy**! 😉
 
 ## 🔗 Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/ankit-tamboli)  
-- [Twitter](https://twitter.com/ankit_tamboli)  
+
 
 ---
 
