@@ -13,7 +13,7 @@ Python · FastAPI · Django · PostgreSQL · Redis · AWS · Docker · CI/CD
 - PrayasPe — a fintech platform integrating 30+ payment APIs, built for 
   users in areas with no access to traditional banking (think cash 
   withdrawals, bill payments, money transfers — all through a mobile app)
-- Blue Membership — a subscription billing system on Razorpay handling 
+- Premium Membership — a subscription billing system on Razorpay handling 
   the full lifecycle: create, pause, cancel, resume, with idempotent 
   webhook processing so no payment event is ever missed or duplicated
 - Fuel card system — a closed-loop payment platform for a logistics 
@@ -26,4 +26,4 @@ failed retries, double charges. The edge cases that break most systems.
 Building this to handle them correctly, not just the happy path.
 
 ## Let's connect
-[LinkedIn](https://www.linkedin.com/in/ankit-tamboli) · tamboliankit30@gmail.com
+[LinkedIn](https://www.linkedin.com/in/ankit-tamboli) · tamboliankit50@gmail.com
